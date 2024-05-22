@@ -1,0 +1,79 @@
+**I did these translations with my birth language (Spanish) since the translations within the game are wrong**
+
+
+
+
+**Spanish Language**
+General Settings : Ajustes Generales
+Language: Idioma
+Server Region: Región del servidor
+Change Region: Elige tu región
+Best: Mejor
+Europe: Europa
+USA: America del norte
+South America: America del sur
+Asia: Asia
+Privacy Policy: Política de privacidad
+Terms of Service: Términos de servicio
+Customize Controls: Controles Personalizados
+Use auto shoot: Usar auto-disparo
+Note: Snipers still use manual release to shoot:
+Los francotiradores solo funcionan con el disparo manual
+
+Change: Cambiar
+Open: Abrir
+Settings: Ajustes
+Shop: Tienda
+Battle: Batalla
+Battle Pass: Pase de batalla
+Customize: Personalizar
+Rad Road: Camino radial
+Games: Juegos
+Wins: Victorias
+Kills: Muertes
+Profile: Perfil
+Change name: Cambiar nombre
+Edit your username: Edite su nombre de usuario
+Username: Nombre de usuario
+OK: Listo
+Connecting...:  Conectando... 
+Searching:   Buscando...
+Preparing:   Preparando....
+Game found! Loading level...:  ¡Partida encontrada! Cargando...
+Skins: Aspectos
+Color: Colores
+Emotes: Emotes
+Animations: Animaciones
+Owned Skins: Tus Aspectos
+Change Color: Cambiar color
+Not Available Yet: Aun no está disponible
+I've got: Lo tengo
+Get More: Obtener mas
+To be unlocked: Para ser desbloqueado
+All: Todo
+lucky wheel:  Ruleta afortunada
+skin wheel:  Ruleta de aspectos
+epic wheel:  Ruleta épica 
+random prize:  Premio aleatorio 
+get a skin:  Consigue un aspecto
+get epic skin:  Consigue un aspecto épico
+come back tomorrow:  Vuelve mañana
+Common: Común
+Uncommon: Poco común
+Rare: Raro
+Epic: Épico
+Apply: Aplicando
+Legendary: Legendario
+What's new: Que hay de nuevo?
+Leaderboards: Tabla de clasificación
+Trophies: Trofeos
+Crowns: Coronas
+Global: Mundial
+Local: Local
+Select landing location: Seleccione la ubicación de aterrizaje
+Touch the map to select the location where you land: Toca el mapa para seleccionar la ubicación donde aterrizas
+
+Contributors:
+@gamersito @flavi._.  
+
+**If you want to appear here, contribute with the translation**
